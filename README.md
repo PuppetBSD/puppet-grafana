@@ -1,5 +1,6 @@
 # grafana
 
+
 [![Build Status](https://travis-ci.org/voxpupuli/puppet-grafana.png?branch=master)](https://travis-ci.org/voxpupuli/puppet-grafana)
 [![Code Coverage](https://coveralls.io/repos/github/voxpupuli/puppet-grafana/badge.svg?branch=master)](https://coveralls.io/github/voxpupuli/puppet-grafana)
 [![Puppet Forge](https://img.shields.io/puppetforge/v/puppet/grafana.svg)](https://forge.puppetlabs.com/puppet/grafana)
